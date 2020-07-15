@@ -10,4 +10,4 @@ I actually on 2 differents projects for my hobbies:
 - Email: even@pouyadou.fr
 - LinkedIn: https://www.linkedin.com/in/pouyadou-even/
 - Github: https://github.com/Alphamplyer
-- Onlice CV: https://alphamplyer.github.io/
+- Online CV: https://alphamplyer.github.io/
