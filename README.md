@@ -4,7 +4,7 @@ I am a young french Back-End developer. I am 21 years old and I am looking for m
 
 I actually on 2 differents projects for my hobbies:
   - [escorevision](https://github.com/Alphamplyer/escorevision-website/tree/develop), a website for one of my friends
-  - [NextStep]https://github.com/Studios-Hypers, My Game that I made on Unity during my free time.
+  - [NextStep](https://github.com/Studios-Hypers), My Game that I made on Unity during my free time.
 
 ### Contact and Links
 - Email: even@pouyadou.fr
