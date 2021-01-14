@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a young french Back-End developer. I am 22 years old and I am looking for my first job.
-
-I actually on 2 differents projects for my hobbies:
-  - [alphamplyer-website](https://github.com/Alphamplyer/alphamplyer-website/tree/develop), my own website
-  - [NextStep](https://github.com/Studios-Hypers), My Game that I made on Unity during my free time.
+I am a young french developer. I am 22 years old and I am looking for my first job :
+- PHP Back-end Developer
+- Java Back-end Developer
+- FullStack Developer
 
 ### Contact and Links
 - Email: even@pouyadou.fr
