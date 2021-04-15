@@ -5,7 +5,7 @@ I am a young french developer. I am 22 years old and I am looking for my first j
 - Java Back-end Developer
 - FullStack Developer
 
-Meanwhile, I'm actually trying to make my own startup ([Fedia](https://github.com/Feddia)) and experiment with TDD, BDD, DDD, and Clean Achitecture
+Meanwhile, I'm actually trying to make my own startup ([Feddia](https://github.com/Feddia)) and experiment with TDD, BDD, DDD, and Clean Achitecture
 
 ### Contact and Links
 - Email: even@pouyadou.fr
