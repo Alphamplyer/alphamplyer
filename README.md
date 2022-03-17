@@ -1,6 +1,6 @@
-### Hi there 👋
-
-I am a young french developer. I am 23 years old student.
+___
+![Alphamplyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alphamplyer&show_icons=true&theme=github_dark&hide_border=true)
+___
 
 ### Contact and Links
 - Email: even@pouyadou.fr
